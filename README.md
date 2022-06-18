@@ -7,5 +7,5 @@ Experiment 1: Using Software Tools and Code Versioning System
 
 
 •	Tools Used
-o	Git Terminal
-o	Anaconda
+Git Terminal
+Anaconda
