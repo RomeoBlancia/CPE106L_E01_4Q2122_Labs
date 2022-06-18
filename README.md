@@ -6,6 +6,6 @@ Experiment 1: Using Software Tools and Code Versioning System
 2.	Execute basic codes utilizing the Anaconda application to orient ourselves with Python programming
 
 
-•	Tools Used
-Git Terminal
+•	Tools Used are
+Git Terminal &
 Anaconda
