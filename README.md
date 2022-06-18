@@ -1,4 +1,6 @@
-# Lab1
+# Lab1 - Group 6
+Members: (Cyrus M. Baria), (Romeo B. Blancia) ,(Nicouli Vincent V. Cagampan)
+
 Experiment 1: Using Software Tools and Code Versioning System
 
 •	Objectives 
