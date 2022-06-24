@@ -1,0 +1,8 @@
+Hello everyone
+We are students of CPE106L section E01
+This is just a sample file test 
+We utilize python in writing this code
+Group members of group 6 are:
+Baria
+Blancia
+Cagampan
