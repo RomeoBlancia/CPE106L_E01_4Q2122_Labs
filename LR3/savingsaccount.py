@@ -1,3 +1,8 @@
+"""
+File: savingsaccount.py
+This module defines the SavingsAccount class.
+"""
+
 class SavingsAccount:
     """This class represents a savings account
     with the owner's name, PIN, and balance."""
@@ -52,6 +57,4 @@ class SavingsAccount:
         interest = self.balance * SavingsAccount.RATE
         self.deposit(interest)
         return interest
-        
-    def __lt__(self, other):
-        return self.name < other.name
+
