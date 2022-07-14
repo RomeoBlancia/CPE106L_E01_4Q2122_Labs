@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>130</x>
+      <y>30</y>
+      <w>240</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes>Bank
+--
+-account: string 
+-fileName: NoneType
+-add: string
+-makeKey: string
+--
++Bank():
++Bank(NoneType):
++makeKey(string, string): string
++add(SavingsAccount): void
++remove(string, string): string
++get(string, string): string
++computeInterest(): int
++getKeys():
++save(NoneType): 
++createBank(int): Bank
++testAccount():
++main(int, NoneType):
+
+
+
+fg=BLUE
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>320</y>
+      <w>30</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;110.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>130</x>
+      <y>430</y>
+      <w>240</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>SavingAccount
+--
+-name: string
+-pin: string
+-balance: float
+-deposit: NoneType
+--
++savingAccount():
++SavingsAccount(string, string, float):
++getBalnce(): float
++getBalance(): float
++getName(): string
++getPin(): string
++deposit(int): NoneType
++withdraw(int): NoneType
++computeInterest(): float
+
+
+bg=YELLOW
+fg=BLACK</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
