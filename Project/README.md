@@ -1,0 +1,5 @@
+# Password_Management Application
+
+* This password manager software was created in Python utilizing Tkinter and an SQLite database to manage passwords for several apps. The application name, URL, email address, and password are the data needed to keep passwords for various applications.
+
+* A password manager application will securely store all of the user's passwords, eliminating the need for the user to remember them. This enables the user to create distinctive, robust passwords for all of their crucial accounts rather than using the same password for all of them, which you should never do.  By providing the user in coming up with strong, one-of-a-kind passwords for every login and enforcing other security best practices, using a password management tool may significantly improve your company's cybersecurity or even your personal accounts on websites. 
